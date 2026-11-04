@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "duckdb-embedded-database",
+      "title": "Meu Primeiro Banco de Dados com DuckDB",
+      "description": "Criando e acessando um banco de dados embarcado com DuckDB: conexão, criação de tabelas, inserção de registros e consultas com SELECT, WHERE e ORDER BY",
+      "path": "assignments/duckdb-embedded-database",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
